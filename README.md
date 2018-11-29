@@ -4,7 +4,7 @@
 더 멀리 떠나기 전에 어서 승선 하시기 바랍니다. 
 
 ## 채용중인 엔지니어
-[소프트웨어 엔지니어(신입)](Software_eningeer_fresher.md)
+[소프트웨어 엔지니어(신입)](Software_engineer_fresher.md)
 
 신입 개발자를 채용중에 있습니다. 관심있는 분은 지원 부탁드립니다. 
 
