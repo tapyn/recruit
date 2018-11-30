@@ -13,7 +13,7 @@ We believe talented people make better world. We keep trying to make better envi
 We respect individuals and we offers below now and we don't make limits at working when it has productivity.
  
 - Unlimited leaves
-- No office hour  
+- Flexible office hour  
 - Remote working (partial)
 
 ## Equipment
