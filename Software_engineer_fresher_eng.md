@@ -13,7 +13,7 @@ Manage individual project priorities, deadlines and deliverables.
 - Fluency in English or Korean 
 
 ### Preferred qualifications for Backend Engineer
-- Experience in JavaScript
+- Experience in Java
 - Understanding object oriented programming
 - Excellence in Problem solving skill and passion for learning
 - Understanding Spring framework 
